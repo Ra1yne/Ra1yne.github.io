@@ -16,6 +16,6 @@ about:
 
 # Hello I'm Zhi Jie
 
-I am currently a 2nd year student at Singapore Management Univeresity (SMU), pursuing a degree in Economics with a second major in Data Science and Analytics. 
+I am currently pursuing a degree in Economics with a second major in Data Science and Analytics at Singapore Management University (SMU). 
 
 
