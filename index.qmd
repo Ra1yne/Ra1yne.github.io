@@ -1,6 +1,6 @@
 ---
 title: "IntroWebpage"
-image: images/apple_pic.jpeg
+image: images/personal_img.jpeg
 toc: false
 about: 
   template: trestles
