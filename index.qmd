@@ -1,6 +1,6 @@
 ---
 title: "IntroWebpage"
-image: images/personal_img.jpeg
+image: images/personal_img.jpg
 toc: false
 about: 
   template: trestles
