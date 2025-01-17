@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "project_files/weather_visual.html",
+    "href": "project_files/weather_visual.html",
+    "title": "Visualising the Weather",
+    "section": "",
+    "text": "These are my visualisations\n\nAverage Monthly Temperature Through the Years"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "IntroWebpage",
@@ -25,6 +32,6 @@
     "href": "projects.html",
     "title": "Project",
     "section": "",
-    "text": "My Projects\nHere are some of my projects:\n\nProject 1: This project aims to visualise weather data\nProject 2: Description of project 2."
+    "text": "My Projects\nHere are some of my projects:\n\nProject 1: This project aims to visualise weather data sourced from data.gov.sg\nProject 2: Description of project 2."
   }
 ]
