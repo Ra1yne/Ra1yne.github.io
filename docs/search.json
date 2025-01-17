@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Project",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "IntroWebpage",
     "section": "",
-    "text": "My Projects\nHere are some of my projects:\n\nProject 1: Description of project 1.\nProject 2: Description of project 2."
+    "text": "Hello I’m Zhi Jie\nI am currently pursuing a degree in Economics with a second major in Data Science and Analytics at Singapore Management University (SMU)."
   },
   {
     "objectID": "about.html",
@@ -21,10 +21,10 @@
     "text": "Project 1\nThis is project 1"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "IntroWebpage",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Project",
     "section": "",
-    "text": "Hello I’m Zhi Jie\nI am currently pursuing a degree in Economics with a second major in Data Science and Analytics at Singapore Management University (SMU)."
+    "text": "My Projects\nHere are some of my projects:\n\nProject 1: This project aims to visualise weather data\nProject 2: Description of project 2."
   }
 ]

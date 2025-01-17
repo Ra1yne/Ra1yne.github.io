@@ -10,5 +10,8 @@
   },
   "projects.qmd": {
     "projects.html": "ca7f4301"
+  },
+  "project_files/weather_visual.qmd": {
+    "weather_visual.html": "7546ec25"
   }
 }

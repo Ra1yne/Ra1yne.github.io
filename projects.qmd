@@ -6,5 +6,5 @@ title: "Project"
 
 Here are some of my projects:
 
-- [**Project 1**](projects/weather_visual.qmd): This project aims to visualise weather data
+- [**Project 1**](project_files/weather_visual.qmd): This project aims to visualise weather data
 - **Project 2**: Description of project 2.
